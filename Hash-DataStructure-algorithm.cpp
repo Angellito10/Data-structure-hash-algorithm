@@ -2,7 +2,7 @@
 #include <string>
 #include <iomanip>
 using namespace std;
-//start
+
 class Database {
   struct Staff {
     int index;
