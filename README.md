@@ -18,6 +18,7 @@ used to solve collision such as:
 1.	Linear Probing
 2.	Quadratic Probing
 3.	Chaining.
+
 For the more understanding I have wrote this code to help me to understand the hash algorithm  in practical, the program I have wrote  will store the staff 
 information into a static array/dynamic array(STL) as follows:
 
