@@ -19,7 +19,7 @@ used to solve collision such as:
 2.	Quadratic Probing
 3.	Chaining.
 
-For the more understanding I have wrote this code to help me to understand the hash algorithm  in practical, the program I have wrote  will store the staff 
+For the more understanding I have wrote this code to help me to understand the hash algorithm  in practical, the program that I had wrote  will store the staff 
 information into a static array/dynamic array(STL) as follows:
 
 1.	Staff ID no (key) : 8 integer numbers starting from 90020001 until 90020999
