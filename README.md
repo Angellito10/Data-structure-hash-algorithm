@@ -1,4 +1,4 @@
-# Data-structure-hash-algorithm
+# Data-structure-hash-algorithm use this command in Visual Code if you want to compile and run the code (clang++ -std=c++17) :)
 DS-hash-algorithm
 
 In the real codding world, Writing a code isn’t about learning the syntax, It’s more  about the runtime for  the code and the time complexity, also beside on 
